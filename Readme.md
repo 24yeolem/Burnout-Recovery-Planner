@@ -274,8 +274,8 @@ The sequential multi-agent pipeline solves each of these:
 
 | Name | Role |
 |---|---|
-| **Mohit Yeole** | Backend pipeline, agent design, Streamlit orchestration |
-| **Aahana Kapse** | Research, prompt engineering, UI and output design |
+| **Mohit Yeole** | Backend pipeline, agent design, Streamlit orchestration Research, prompt engineering, UI and output design|
+| **Aahana Kapse** | Problem statement documentation, task decomposition/spec document, Artitecture diagram |
 
 **Institution:** Ramdeobaba University, Nagpur  
 **Department:** Electronics and Communication Engineering  
