@@ -274,9 +274,8 @@ The sequential multi-agent pipeline solves each of these:
 
 | Name | Role |
 |---|---|
-| **Mohit Yeole** | Architect & Integrator Leads problem definition, task decomposition, architecture design, and API/tool integrations. Owns the system design document.|
-| **Aahana Kapse** | Builder & Deployer
-Leads agent implementation, LLM-as-Judge integration, UI development, and deployment. Owns the working application and Loom video. |
+| **Mohit Yeole** | Architect & Integrator:- Leads problem definition, task decomposition, architecture design, and API/tool integrations. Owns the system design document.|
+| **Aahana Kapse** | Builder & Deployer:- Leads agent implementation, LLM-as-Judge integration, UI development, and deployment. Owns the working application and Loom video. |
 
 **Institution:** Ramdeobaba University, Nagpur  
 **Department:** Electronics and Communication Engineering  
